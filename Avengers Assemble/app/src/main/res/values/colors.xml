@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="red" >#8D2423</color>
+    <color name="red_Orginal">#BF0C10</color>
+    <color name="red_black">#7E0508</color>
+    <color name="white">#fff</color>
+    <color name="red_background_color">#961B1B</color>
+    <color name="about_color">#bf2123</color>
+    <color name="game_activity_strok_color">#8e0b0b</color>
+    <color name="game_activity_endColor">#9e1111</color>
+    <color name="game_activity_startColor">#af1313</color>
+</resources>

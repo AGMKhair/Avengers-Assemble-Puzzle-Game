@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<shape
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <stroke
+
+        android:width="2dp"
+        android:color="@color/game_activity_strok_color" />
+    <gradient
+
+        android:endColor="@color/game_activity_endColor"
+        android:startColor="@color/game_activity_startColor"
+
+        android:angle="90" />
+    <corners
+
+        android:radius="@dimen/_10sdp"
+        />
+
+
+</shape>
+
